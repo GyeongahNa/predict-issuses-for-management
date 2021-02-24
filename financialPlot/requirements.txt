@@ -1,0 +1,3 @@
+numpy==1.18.5
+pandas @ file:///C:/ci/pandas_1592833613419/work
+plotly==4.11.0
