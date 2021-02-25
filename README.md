@@ -22,7 +22,7 @@ financialPlot.막대(
 “유동비율 분석”, corp_list, “유동비율 (%)”, 
 ratio_list, color_list, legend_colors, px.colors.sequential.Reds_r[1])
 ```
-<br><br>
+<br>
 
 ### 2. 관리종목 및 비관리종목의 분류 예측
 
