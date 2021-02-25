@@ -12,8 +12,8 @@
 #### 설치
 
 ```
-Pip install financialPlot
-From financialPlot import financialPlot
+pip install financialPlot
+from financialPlot import financialPlot
 ```
 
 #### 사용 예시
