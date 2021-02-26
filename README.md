@@ -37,7 +37,7 @@ financialPlot 및 회계 도메인 지식을 이용하여 실제 기업 데이�
 - 화폐 단위 통일(KRW)
 
 #### 모델 구성 및 학습
-- 사용 모델: SVM
+- 사용 모델: `SVM`
 - Accuracy: 97%
 
 #### 분류 결과 및 대안 제시
@@ -48,6 +48,7 @@ financialPlot 및 회계 도메인 지식을 이용하여 실제 기업 데이�
 > [최종 보고서](https://github.com/GyeongahNa/predict-issuses-for-management/blob/main/report.pdf)<br>
 > [financailPlot 코드](https://github.com/GyeongahNa/predict-issuses-for-management/tree/main/financialPlot)<br>
 > [데이터 분석 코드](https://github.com/GyeongahNa/predict-issuses-for-management/blob/main/codes.ipynb)<br>
+
 
 
 
